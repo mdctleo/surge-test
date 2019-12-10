@@ -1,9 +1,8 @@
 ---
 page: Index
-heading: Hello There!
+heading: Hello There
 ---
-I’m Mohan and I love creating useful stuff. I’m a Passionate
-Front-end Developer, UI/UX Enthusiast, AndroidGeek, FirebaseLover
-and Web Developer. Currently, I’m an Undergrad in Computer
-Science.
-
+I am a computer science student at University of British Columbia.
+I have about one year of professional full stack engineering experience.
+I am passionate about software engineering practices and computer systems.
+Outside of programming, I enjoy film, photography and music technology.

@@ -27,7 +27,15 @@
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "git-scripts": "^0.2.1",
+    "prettier": "^1.18.2",
+    "surge": "^0.21.3"
+  },
+  "git": { 
+    "scripts": 
+      { 
+        "pre-push": "surge --project ./public --domain  steady-table.surge.sh" 
+      } 
   },
   "keywords": [
     "gatsby",

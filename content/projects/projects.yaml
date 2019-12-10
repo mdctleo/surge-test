@@ -1,28 +1,97 @@
-- title: Weather App
-  description: A simple weather build with the help of Open Weather API.This is just a simple weather app that usually predicts the weather.
-  cover: tech_cover.png
-  repo: https://github.com/mohanmonu777/myWeatherApp
-  date: Aug 9, 2018
+- title: Mobify
+  description: >
+    I am currently on a 4 month internship as a Frontend Engineeer at Mobify. 
+    Stay tuned for more details.
+  cover: mobify.png
+  website: https://www.mobify.com/
+  # date: Sept 1, 2019
+  tags: 
+    - React
+
+- title: BC Cancer
+  description: >
+     Spent 4 month as a full-stack engineer co-op at BC Cancer research, 
+     creating internal applications that support the research in medical physics/imaging
+  cover: bc_cancer.jpg
+  website: http://www.bccancer.bc.ca/
   tags:
-    - Android
+    - VueJs
+    - Flask
+
+- title: UBC Social Health Lab
+  description: >
+    I am working as a contracted part-time Android/web-developer for the Social Health Lab at UBC. 
+    I have been involved in projects such as multi-branching an Android survey in an application that tracks sleep patterns.
+    Setting up an express backend + NoSQL database to receive these test results.
+    Writing a parser using electron.js to transform raw data for Inquisit programs.
+  cover: ubc.png
+  website: https://chenlab.psych.ubc.ca/
+  tags:
     - Java
+    - Android
+    - MongoDB
+    - Express
 
-- title: Game of Chats
-  description: A simple Blog + Chat App build using Flutter and inspired by Game of Thrones
-  cover: game_of_chats_cover.png
-  demo: http://download1145.mediafire.com/660shu5qzu8g/t7qe92xbvuv353u/Game+Of+Chats.apk
-  repo: https://github.com/mohanmonu777/Game-of-chats-Flutterchatapp
-  date: Jan 27, 2019
+- title: Guusto
+  description: >
+    I spent 8 month as a full-stack junior developer co-op at Guusto, 
+    during that time I received a lot of hands-on experience developing new features, 
+    debugging and working with a team through the development cycle. 
+    I worked with HTML, CSS and AngularJs for frontend and Java with spring framework in the backend.
+  cover: guusto_logo.png
+  website: https://www.guusto.com/
   tags:
-    - Firebase
-    - Flutter
+    - AngularJs
+    - Java with Spring
+    - MySQL
 
-- title: Firebase Articles
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+- title: Laser Harp
+  description: >
+    I am currently working on Laser Harp as part of a music technology minor's capstone project. 
+    The harp projects laser as strings, and a performer can pluck these lasers to trigger sounds/effects.
   cover: bro_cover.png
-  demo: https://www.mediafire.com/file/rlc30odk1ep4w9v/app-release.apk/file
-  repo: https://github.com/mohanmonu777/firebaseArticles
-  date: Jun 4, 2019
   tags:
-    - Firebase
-    - Flutter
+    - Arduino
+
+
+- title: JABC HR System
+  description: >
+    I worked on a human resources system for Junior Achivements of BC in UBC's software engineer project class. 
+    I worked on the project with 6 other team members, 
+    my main responsbiliy was setting up automated test suites and writing tests.
+  cover: jabc.png
+  tags:
+    - React
+    - Express
+    - Mocha + Chai
+
+- title: Insight UBC
+  description: >
+    UBC's software engineering class's standard project. 
+    Web app to query classroom and course metadata from the UBC Learning spaces website
+  cover: insight_ubc.jpg
+  tags:
+    - TypeScript
+
+
+- title: SpaceGuy
+  description: >
+    A little retro game I made for Android right after my first software development class. 
+    User controls a character on screen and attempts to dodge incoming asteroids for a highscore. 
+  cover: space_guy.png
+  repo: https://github.com/mdctleo/SpaceGuy
+  tags:
+    - Java
+    - Android
+
+- title: HappyBox
+  description: >
+    A little app that was made under 24 hrs at LumoHacks 2017. 
+    It is a website where users can collect/post tips on how to deal with depression.
+  cover: happy_box.png
+  repo: https://github.com/mdctleo/HappyBox
+  tags:
+    - PHP
+    - MySQL

@@ -17,14 +17,14 @@ export default function index() {
         <Menu>
           <ul>
             <li className="logo">
-              <NavLink to="/">MOHAN</NavLink>
+              <NavLink to="/">About</NavLink>
             </li>
             <li>
-              <NavLink to="/projects">See my work</NavLink>
+              <NavLink to="/projects">See my projects</NavLink>
             </li>
-            <li>
-              <NavLink to="/blog">blog</NavLink>
-            </li>
+            {/* <li>
+              <NavLink to="/blog">Blog</NavLink>
+            </li> */}
           </ul>
         </Menu>
       }

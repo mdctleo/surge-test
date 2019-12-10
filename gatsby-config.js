@@ -1,38 +1,26 @@
 module.exports = {
   siteMetadata: {
-    title: `Mohan`,
-    description: `A personal portfolio site built with GatsbyJS`,
-    author: `mohan.tech`,
-    footerLinks: [
-      {
-        name: "Facebook",
-        url: "https://www.facebook.com/sree.dhannu"
-      },
-      {
-        name: "Instagram",
-        url: "https://www.instagram.com/mohan.houseStark"
-      }
-    ],
+    title: `Leo Lin Portfolio`,
+    description: `A personal portfolio site`,
+    author: `Leo Lin`,
+    // footerLinks: [
+    //   {
+    //     name: "Facebook",
+    //     url: "https://www.facebook.com/sree.dhannu"
+    //   },
+    //   {
+    //     name: "Instagram",
+    //     url: "https://www.instagram.com/mohan.houseStark"
+    //   }
+    // ],
     socialLinks: [
       {
-        name: "Facebook",
-        url: "https://www.facebook.com/sree.dhannu"
-      },
-      {
-        name: "Instagram",
-        url: "https://www.instagram.com/mohan.houseStark"
-      },
-      {
-        name: "Twitter",
-        url: "https://www.twitter.com/_MrNullPointer"
-      },
-      {
         name: "Github",
-        url: "https://www.github.com/mohanmonu777"
+        url: "https://www.github.com/mdctleo"
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/mohanmonu777"
+        url: "https://www.linkedin.com/in/leo-lin-229004a1"
       }
     ]
   },
@@ -85,12 +73,12 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-personal-portfolio`,
-        short_name: `mohan's portfolio`,
+        short_name: `Leo's portfolio`,
         start_url: `/`,
         background_color: `#616CAA`,
         theme_color: `#616CAA`,
         display: `minimal-ui`,
-        icon: `src/images/code_logo.png` // This path is relative to the root of the site.
+        icon: `src/favicon.png` // This path is relative to the root of the site.
       }
     },
     {
